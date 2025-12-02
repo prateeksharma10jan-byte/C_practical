@@ -476,7 +476,7 @@ printf ("maximum number = %d", max);
 return 0;
 }
 
-//WAP to find incremeset of a number
+//WAP to find increment of a number
 
 #include <stdio.h>
 
@@ -553,3 +553,4 @@ int main() {
     return 0;
 
 }
+
