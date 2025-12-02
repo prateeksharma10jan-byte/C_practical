@@ -5,7 +5,6 @@
 int main () {
 
 for (int i=1; i<=10; i++)
-
 printf ("%d", i);
 
 return 0;
@@ -13,16 +12,14 @@ return 0;
 }
 
 
-//rogram to find sum  of first 10 natural numbers
+//program to find sum  of first 10 natural numbers
 
 #include <stodier.h>
 
 int main() {
 
 int sum = 0;
-
 for (int i=1; i <= 10; i++)
-
 sum = sum +i;
 
 printf("Sum = %d", sum);
@@ -39,14 +36,11 @@ return 0;
 int main () {
 
 int n, fact =1;
-
 printf ("enter  a number: ");
-
 scanf("%d", &n);
-
+ 
 for (int i = 1; i<= n; i++)
-
-fact = = i;
+fact == i;
 
 printf ("Factorial =%ď", fact);
 
@@ -81,7 +75,6 @@ return 0;
 WAP to chick armstrong number
 
 #include <stdio.h>
-
 #include <math.h>
 
 int main () {
@@ -558,4 +551,5 @@ int main() {
 
     printf("Result: %f\n", result);
     return 0;
+
 }
